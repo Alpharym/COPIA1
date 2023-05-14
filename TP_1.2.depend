@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1684103673 source:c:\users\joaov\downloads\c++\tp_1.1\main.cpp
+	<iostream>
+	"Domínios.h"
+	"Entidades.h"
+	"TestesUnidade.h"
+
+1684102209 c:\users\joaov\downloads\c++\tp_1.1\domínios.h
+	<stdexcept>
+	<ctype.h>
+	<string>
+	<regex>
+	<unordered_set>
+
+1684097734 c:\users\joaov\downloads\c++\tp_1.1\entidades.h
+	"Domínios.h"
+
+1684101291 c:\users\joaov\downloads\c++\tp_1.1\testesunidade.h
+	"Domínios.h"
+	"Entidades.h"
+
